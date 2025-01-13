@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm a m i r a l i !</h1>
 <h3 align="center">a python programmer from tehran , i love code cool stuff and deisgn beautiful things i also intrested in creating a coding team !</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devwithamirali&label=Profile%20views&color=ff7605&style=flat" alt="devwithamirali" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devwithamirali" alt="devwithamirali" /></a> </p>
-
 - 🌱 I’m currently learning **Python**
-
-<h3 align="left">Connect with me:</h3>
+- 🎨 I Also Intrested In **Discord** And **TeamSpeak**
 <p align="left">
 </p>
 
