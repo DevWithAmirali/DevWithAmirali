@@ -3,7 +3,7 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=niifr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NilooFar Vafaei" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niifr&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DevWithAmirali&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Amirali" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niifr&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
 <h4 align="left">👋 Hi there, I'm a Junior Python Programmer </h4>
